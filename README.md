@@ -1,4 +1,4 @@
-# WebVM
+# (Hazır Değil!!) QWEVM
 
 [![Issues](https://img.shields.io/github/issues/qweteam/webvm-fork)](https://github.com/qweteam/webvm-fork/issues)
 
