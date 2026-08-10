@@ -23,3 +23,5 @@ WORKDIR /home/user/
 ENV HOME="/home/user" TERM="xterm" USER="user" SHELL="/bin/bash" EDITOR="vim" LANG="C.UTF-8"
 RUN echo 'root:password' | chpasswd
 CMD [ "/bin/bash" ]
+RUN echo "Welcome to QWE Team's Debian VM
+RUN echo "The root password is: Same as WebVM (password)"
